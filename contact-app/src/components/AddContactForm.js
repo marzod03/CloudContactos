@@ -43,6 +43,8 @@ const AddContactForm = ({ addContact }) => {
         <button type="submit">Añadir</button>
       </form>
     </div>
+
+    
   );
 };
 
